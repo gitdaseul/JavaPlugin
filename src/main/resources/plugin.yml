@@ -1,0 +1,9 @@
+name: MCP_1
+version: '${project.version}'
+main: daseul.com.Main
+api-version: 1.18
+commands:
+  test1:
+  left:
+  exp:
+  ts:
